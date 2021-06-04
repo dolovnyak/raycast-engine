@@ -1,4 +1,4 @@
-# Wolf3D
+# raycast-engine
 
 [Download demo for windows](https://github.com/GodFlight/Wolf3D/raw/master/raycast_demo.zip)
 ###
