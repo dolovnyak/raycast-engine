@@ -9,8 +9,10 @@ Partial implementation of the "Wolfenstein 3D engine".
 Build and run on `MacOS`:
 ------------
 ```
-Run `make` and programm will compile.  
-Run it with `./wolf3d`.  
+make
+./wolf3d
+
+# You can change ./json/config.json to setup game with another resolution/map/textures
 ```
 
 Controls
